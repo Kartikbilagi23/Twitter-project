@@ -38,5 +38,3 @@ Clone the repo and open `index.html` in your browser:
 ```bash
 git clone https://github.com/Kartikbilagi23/twitter-project.git
 cd twitter-project
-git clone https://github.com/your-username/twitter-clone-tailwind.git
-cd twitter-clone-tailwind
