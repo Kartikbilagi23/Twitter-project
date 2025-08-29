@@ -28,7 +28,7 @@ This project was created as a **practice project while learning TailwindCSS**.
 
 | Desktop View | Mobile View |
 |--------------|-------------|
-| ![Desktop Screenshot](tweet-desktop.png) | ![Mobile Screenshot](tweet-mobile.png) |
+| ![Desktop Screenshot](tweet-desk.png) | ![Mobile Screenshot](tweet-mobile.png) |
 
 ---
 
